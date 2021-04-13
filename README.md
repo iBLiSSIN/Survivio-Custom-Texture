@@ -7,4 +7,4 @@ Step 3: Go to "chrome://extensions/" (and remember to enable "Development mode")
 
 Step 4: Open the file with name "Survivio-Custom-Texture-main", drag the file "ST HR 1.0.0" to chrome://extensions.
 
-Step 5: Open surviv.io and try!
+Step 5: Open [surviv.io](https://surviv.io/) and try!
