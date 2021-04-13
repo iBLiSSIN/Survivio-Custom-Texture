@@ -1,0 +1,25 @@
+{
+    "manifest_version": 2,
+    "name": "ST HR",
+    "author":"asder",
+    "version": "1.0.0",
+    "description": "SurvivTexture HighResolution",
+    "icons": {
+        "128": "ST_HR.png"
+    },
+    "browser_action": {
+        "default_icon": {
+            "128": "ST_HR.png"
+        }
+    },
+    "background": {
+        "scripts": [ "Textures.js" ]
+    },
+    "web_accessible_resources":[
+        "img/*",
+        "assets/*",
+        "gui/*",
+        "pass/*"
+    ],
+    "permissions": [ "storage", "webRequest", "webRequestBlocking", "contextMenus", "https://surviv.io/" ]
+}
